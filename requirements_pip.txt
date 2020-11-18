@@ -55,7 +55,7 @@ mkl-fft==1.0.6
 mkl-random==1.0.1
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==5.7.0
+notebook==6.1.5
 numba==0.40.0
 numexpr==2.6.8
 numpy==1.15.4
