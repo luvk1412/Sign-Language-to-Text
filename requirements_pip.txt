@@ -31,7 +31,7 @@ ipywidgets==7.4.2
 isort==4.3.4
 jedi==0.13.1
 jeepney==0.4
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
