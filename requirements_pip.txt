@@ -21,7 +21,7 @@ gast==0.2.0
 grpcio==1.14.1
 h5py==2.8.0
 html5lib==1.0.1
-hunspell==0.5.5
+hunspell==0.5.5(Supported in Ubuntu)
 idna==2.7
 imagesize==1.1.0
 ipykernel==5.1.0
