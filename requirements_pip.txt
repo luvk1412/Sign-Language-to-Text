@@ -107,7 +107,7 @@ sphinxcontrib-websupport==1.1.0
 spyder==3.3.1
 spyder-kernels==0.2.6
 tensorboard==1.10.0
-tensorflow==1.9.0
+tensorflow==2.7.2
 tensorflow-gpu==1.10.0
 termcolor==1.1.0
 terminado==0.8.1
